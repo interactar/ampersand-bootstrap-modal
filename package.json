@@ -1,5 +1,5 @@
 {
-  "name": "modalizer",
+  "name": "ampersand-modalizer",
   "version": "0.0.0",
   "description": "ampersand bootstrap modal component",
   "main": "index.js",
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/interactar/ampersand-bootstrap-modal/issues"
   },
-  "homepage": "https://github.com/interactar/ampersand-bootstrap-modal#readme"
+  "homepage": "https://github.com/interactar/ampersand-bootstrap-modal#readme",
+  "dependencies": {
+    "ampersand-view": "10.0.1",
+    "bootstrap": "3.3.6",
+    "jquery": "3.0.0"
+  }
 }
